@@ -1,5 +1,11 @@
-# 💫 About Me:
-🎯 I'm currently working on<br>A USB Physical Security system using Python and Tkinter, and contributing to Shelfscape — a React-based app for book lovers.<br><br>🤝 I'm looking to collaborate on<br>Full-stack web applications, automation tools, or anything that blends creativity with clean code.<br><br>🧠 I'm looking for help with<br>Advanced system security concepts and optimizing backend performance.<br><br>🌱 I'm currently learning<br>Node.js internals, Express.js best practices, and exploring cloud deployment options.<br><br>💬 Ask me about<br>LeetCode streaks, backend design patterns, or how to turn weird ideas into working prototypes.<br><br>⚡ Fun fact<br>I read Stephen King and Agatha Christie like debugging sessions — intensely, and with zero spoilers. Oh, and I swim better than I write CSS 😊
+About Me
+I’m a developer by choice and soon-to-be by profession, with a passion for building practical, user-centric software. My strengths lie in turning ideas into full-fledged applications through clean code, thoughtful architecture, and continuous iteration.
+
+Beyond code, I’m a voracious reader of mystery and thriller novels, especially the works of Agatha Christie and Stephen King — I enjoy solving puzzles, whether in plotlines or debugging sessions.
+
+I’m well-versed in ReactJS for web application development, and have hands-on experience designing intuitive interfaces using Figma. I believe great products are built at the intersection of function and usability.
+
+Currently, I’m actively exploring deeper concepts in backend development, system security, and cloud deployment while collaborating on personal and team projects that challenge and inspire me.
 
 
 ## 🌐 Socials:
