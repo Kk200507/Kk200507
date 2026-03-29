@@ -22,7 +22,7 @@ Currently, I’m actively exploring deeper concepts in backend development, syst
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-## 🧠 Tech Stack
+
 
 ### 🖥️ Frontend
 <p>
